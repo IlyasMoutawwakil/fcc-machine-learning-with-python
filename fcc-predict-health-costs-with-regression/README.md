@@ -1,4 +1,4 @@
-# fcc-predict--health-costs-with-regression
+# fcc-predict-health-costs-with-regression
 
 In this challenge, you will predict healthcare costs using a regression algorithm.
 
